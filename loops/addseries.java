@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 //sum of the series s= 1-2+3-4.....n
 
 import java.util.Scanner;
@@ -21,8 +21,7 @@ public class addseries {
         System.out.println("The alternating sum is: " + ans);
     }
 }
-=======
-//sum of the series s= 1-2+3-4.....n
+// sum of the series s= 1-2+3-4.....n
 
 import java.util.Scanner;
 
@@ -40,8 +39,7 @@ public class addseries {
                 ans += i;
             }
         }
-        
+
         System.out.println("The alternating sum is: " + ans);
     }
 }
->>>>>>> 7dad1f3 (first commit)

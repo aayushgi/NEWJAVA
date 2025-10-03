@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 public class update {
     public static void update(int marks[]) {
         for(int i=0; i<marks.length; i++){
@@ -15,7 +15,7 @@ public class update {
         System.out.println();
     }
 }
-=======
+
 public class update {
     public static void update(int marks[]) {
         for(int i=0; i<marks.length; i++){
@@ -32,4 +32,4 @@ public class update {
         System.out.println();
     }
 }
->>>>>>> 7dad1f3 (first commit)
+

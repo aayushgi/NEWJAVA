@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 public class binarysearch {
 
     public static int binarysearch(int number[], int key) {
@@ -29,7 +29,7 @@ public class binarysearch {
         System.out.println("index for key is :"  +binarysearch(number, key));
     }
 }
-=======
+
 public class binarysearch {
 
     public static int binarysearch(int number[], int key) {

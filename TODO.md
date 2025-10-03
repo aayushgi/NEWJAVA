@@ -1,0 +1,6 @@
+- [ ] Fix Array/arraycc.java: Change percentage calculation to use float for accurate division
+- [ ] Fix Array/update.java: Remove duplicate class definition
+- [ ] Fix Array/binarysearch.java: Remove duplicate class definition
+- [ ] Fix Array/largest.java: Resolve merge conflict by keeping the longer array version
+- [ ] Fix loops/addseries.java: Remove duplicate class definition and merge conflict markers
+- [ ] Compile all fixed files to check for syntax errors
